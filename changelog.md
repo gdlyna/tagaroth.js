@@ -27,4 +27,4 @@ Failed bug fix.
 
 * Version 2.3.3
 Attempt 2 at bug fix.
-UNVERIFIED BUG FIX
+VERIFIED BUGFIX. COMMANDS FINALLY WORKING!
