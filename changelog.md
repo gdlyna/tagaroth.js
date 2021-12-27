@@ -28,3 +28,12 @@ Failed bug fix.
 * Version 2.3.3
 Attempt 2 at bug fix.
 VERIFIED BUGFIX. COMMANDS FINALLY WORKING!
+
+* Version 2.3.3-rc1
+Accidental publish.
+
+* Version 2.3.3-rc2
+PRERELEASE UPDATE!
+Adds new commands, NOTE THEY MAY NOT BE WORKING!!!!!!!!!!
+
+Use `npm i tagaroth.js@prerelease` or `npm i tagaroth.js@<version number>` to install prerelease versions of Tagaroth.
