@@ -1,0 +1,35 @@
+{
+  "name": "tagaroth.js",
+  "version": "2.3.3",
+  "description": "Tagaroth is a all new NPM package to make JS easier!",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "Error, no test specified."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdlyna/tagaroth.js.git"
+  },
+  "keywords": [
+    "js",
+    "made",
+    "easy",
+    "easy",
+    "js",
+    "easyjs",
+    "easy",
+    "javascript",
+    "cool",
+    "npm",
+    "packages"
+  ],
+  "author": "century123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdlyna/tagaroth.js/issues"
+  },
+  "homepage": "https://github.com/gdlyna/tagaroth.js#readme",
+  "dependencies": {
+    "tagaroth.js": "^1.1.9"
+  }
+}
