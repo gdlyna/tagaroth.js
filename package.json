@@ -1,10 +1,10 @@
 {
   "name": "tagaroth.js",
-  "version": "2.3.3-rc2",
+  "version": "2.4.2-rc1",
   "description": "Tagaroth is a all new NPM package to make JS easier!",
   "main": "./lib/index.js",
   "exports": {
-"openLink": "./lib/openLink.mjs"
+    "openLink": "./lib/openLink.mjs"
   },
   "scripts": {
     "test": "Error, no test specified."
@@ -34,6 +34,6 @@
   "homepage": "https://github.com/gdlyna/tagaroth.js#readme",
   "dependencies": {
     "tagaroth.js": "^2.3.3-rc2"
-  }
-,"type": "module"
+  },
+  "type": "module"
 }
