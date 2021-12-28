@@ -1,6 +1,6 @@
 {
   "name": "tagaroth.js",
-  "version": "2.4.2-rc1",
+  "version": "2.4.3-rc2",
   "description": "Tagaroth is a all new NPM package to make JS easier!",
   "main": "./lib/index.js",
   "exports": {
