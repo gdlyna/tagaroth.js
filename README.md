@@ -4,7 +4,7 @@ Tagaroth is a NPM package made by century123 on NPM to make JS a little easier f
 
 # Current Commands
 * cLog(string) - A shorter version of console.log.
-* openLink('your link') - Open's the link you put in the string.
+* openLink('your link') - Open's the link you put in the string. (ONLY IN VERSION 2.3.3-rc2)
 
 ## How to Use Tagaroth
 
