@@ -2,10 +2,7 @@
   "name": "tagaroth.js",
   "version": "2.3.3-rc3",
   "description": "Tagaroth is a all new NPM package to make JS easier!",
-  "exports": {
-    "main": "./lib/index.js",
-    "openLink": "./lib/openLink.mjs"
-  },
+  "main": "./lib/index.js",
   "scripts": {
     "test": "Error, no test specified."
   },
