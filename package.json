@@ -3,6 +3,9 @@
   "version": "2.3.3-rc2",
   "description": "Tagaroth is a all new NPM package to make JS easier!",
   "main": "./lib/index.js",
+  "exports": {
+"openLink": "./lib/openLink.mjs"
+  },
   "scripts": {
     "test": "Error, no test specified."
   },
@@ -32,4 +35,5 @@
   "dependencies": {
     "tagaroth.js": "^2.3.3-rc2"
   }
+,"type": "module"
 }
